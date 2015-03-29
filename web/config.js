@@ -4,7 +4,7 @@ benchmarkConfig({
     {
       "name": "uix [Dart]",
       "url": "https://github.com/localvoid/uix",
-      "benchmarkUrl": "http://localhost:8080/"
+      "benchmarkUrl": "http://localvoid.github.io/vdom-benchmark-uix/"
     },
     {
       "name": "VDom [Dart]",
