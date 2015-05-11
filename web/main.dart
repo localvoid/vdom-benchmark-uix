@@ -247,7 +247,7 @@ class Benchmark {
 }
 
 const name = 'uix';
-const version = '0.5.0';
+const version = '0.7.0';
 
 List<VNode> renderTree(List<Node> nodes) {
   List<VNode> children = [];
